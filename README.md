@@ -1,2 +1,5 @@
-# secure-chat-app
-A chat\image sharing Website with secure chat features such as Payload encryption , Digital Signatures , Certificates and Certificate Authority Signing.
+#### secure-chat-app
+##### Contributers
+
+Faruk Çolak - https://github.com/farukcolak53
+Evrim Şahin - https://github.com/evrimsahin
